@@ -1,1 +1,0 @@
-# web_and_mobileapp_development_projects
